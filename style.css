@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://images.alphacoders.com/106/1065607.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 0;
+    margin: 0;
+    text-align: center;
+}
+
+main{
+    background:transparent;
+    border: 1px solid black;
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+#sum-el {
+    border-bottom: 2px solid ;
+    padding: 4px;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+button {
+    margin: 20px 0;
+    background: white;
+    color: black;
+    border: 1px solid whitesmoke;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px 8px;
+}
+
+main input {
+    width: 15px;
+    height: 20px;
+    margin-top: 30px;
+    color: darkgreen;
+    font-weight: bold;
+}
